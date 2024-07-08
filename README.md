@@ -34,3 +34,15 @@ Este taller contiene soluciones para los ejercicios de matrices.
 
 11. Multiplicacion de Matrices
 - [Matrices/Matrices/11.c](https://github.com/Dougdree/Matrices/blob/main/Matrices/11.c)
+
+12. División de Matrices
+- [Matrices/Matrices/12.c](https://github.com/Dougdree/Matrices/blob/main/Matrices/12.c)
+
+13. Potencia de Matrices
+- [Matrices/Matrices/13.c](https://github.com/Dougdree/Matrices/blob/main/Matrices/13.c)
+
+14. Suma de Matrices con resultado Hexadecimal
+- [Matrices/Matrices/suma.c](https://github.com/Dougdree/Matrices/blob/main/Matrices/suma.c)
+
+15. Cartas
+- [Matrices/Matrices/cartas.c](https://github.com/Dougdree/Matrices/blob/main/Matrices/cartas.c)
